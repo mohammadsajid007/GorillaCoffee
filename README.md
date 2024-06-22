@@ -1,2 +1,2 @@
 # GorillaCoffee
- This is the Landing Page based on Bootstrap.
+ This is the GorillaCoffe Bootstrap landing page.
